@@ -1,6 +1,6 @@
 # PhantomJS 2.0 built on Ubuntu 14.04 x64
 
-This repository contains a PhantomJS 2.0 -binary for Ubuntu. It was compiled on a DigitalOcean 8GB Ubuntu 14.04 x64 -virtual machine.
+This repository contains a PhantomJS 2.0 -binary for Ubuntu. It was compiled on a DigitalOcean 8GB Ubuntu 14.04 x64 -virtual machine. See [PhantomJS #12948](https://github.com/ariya/phantomjs/issues/12948) for details.
 
 ## What was done
 ```bash
