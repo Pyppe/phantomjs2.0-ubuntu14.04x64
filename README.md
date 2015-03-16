@@ -34,3 +34,7 @@ sys     10m39.078s
 5cc2f2bedb614be5b3b50945754d56a9  bin/phantomjs
 a06b0f5e1f41520ca3c752afc75014f8be6bf4d8  bin/phantomjs
 ```
+
+## FAQ
+1. Build fails: `error while loading shared libraries: libicui18n.so.52`
+  * Try `sudo apt-get install libicu52` (see [#1](https://github.com/Pyppe/phantomjs2.0-ubuntu14.04x64/issues/1), thanks [@joebalancio](https://github.com/joebalancio))
