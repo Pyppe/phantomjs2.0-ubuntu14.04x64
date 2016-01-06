@@ -2,7 +2,8 @@
 
 This repository contains a PhantomJS 2.0 -binary for Ubuntu. It was compiled on a DigitalOcean 8GB Ubuntu 14.04 x64 -virtual machine. See [PhantomJS #12948](https://github.com/ariya/phantomjs/issues/12948) for details.
 
-### Download
+### Installation
+Just download the compiled binary, and you're ready to go:
 ```bash
 wget https://github.com/Pyppe/phantomjs2.0-ubuntu14.04x64/raw/master/bin/phantomjs
 ```
